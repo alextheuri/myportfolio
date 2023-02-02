@@ -1,0 +1,8 @@
+/* styled using tag */
+img {
+   display: block;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 10px;
+    margin-bottom: 5px;
+}
